@@ -28,7 +28,10 @@ Whmcs支付网关 - 支付宝
 https://openhome.alipay.com/platform/keyManage.htm
 ```
 
-#### 4.完成
+#### 3.完成
+```
+开始愉快的收钱吧！
+```
 
 特别感谢:
 ------------
