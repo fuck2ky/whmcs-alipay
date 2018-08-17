@@ -25,7 +25,7 @@ Whmcs支付网关 - 支付宝
 #### 2.获取APPID
 ```
 #获取相应的APPID、私钥、支付宝公钥填写到whmcs支付网关处
-https://openhome.alipay.com/platform/keyManage.htm
+[https://openhome.alipay.com/platform/keyManage.htm](https://openhome.alipay.com/platform/keyManage.htm)
 ```
 
 Thanks:
