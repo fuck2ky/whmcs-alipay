@@ -10,7 +10,7 @@ Whmcs支付网关 - 支付宝
 
 安装需求
 ------------
-* 需开通`即时到账`或者`当面付`API
+* 需开通即时到账或当面付API
 * LNMP/AMP With PHP5.4+
 * curl、openssl扩展
 * whmcs5、 whmcs6、 whmcs7版本
